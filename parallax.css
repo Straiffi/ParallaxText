@@ -1,0 +1,20 @@
+.parallax {
+	position: absolute;
+	left: 10%;
+	top: 10%;
+	font-family: Sans-serif;
+}
+
+.parallax-text {
+	font-size: 50px;
+	color: black;
+	position: absolute;
+	transition: 300ms ease-out;
+}
+
+.parallax-bg {
+	position:  absolute;
+	font-size: 50px;
+	color: #9300d0;
+	opacity: 0.2;
+}
